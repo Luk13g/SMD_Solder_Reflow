@@ -1,0 +1,5 @@
+simulation_scr.c:14:18:bb_scr_insert_uint	56	static
+simulation_scr.c:57:18:bb_scr_insert_int	32	static
+simulation_scr.c:71:18:bb_scr_format_float1d	40	static
+simulation_scr.c:87:6:bb_scr_write_temp	48	static
+simulation_scr.c:100:6:simulation_start	4	static

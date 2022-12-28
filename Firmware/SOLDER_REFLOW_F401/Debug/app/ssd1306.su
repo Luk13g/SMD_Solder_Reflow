@@ -1,0 +1,12 @@
+ssd1306.c:27:9:SSD1306_Write_Command	32	static
+ssd1306.c:37:9:SSD1306_Write_Data	32	static
+ssd1306.c:47:6:SSD1306_Goto	16	static
+ssd1306.c:60:6:SSD1306_Write_Char	48	static
+ssd1306.c:89:6:SSD1306_Write_Buffer	32	static
+ssd1306.c:96:6:SSD1306_Write_String	16	static
+ssd1306.c:101:6:SSD1306_Write_Centered_String	24	static
+ssd1306.c:109:6:SDD1306_Clear_Line	24	static
+ssd1306.c:134:6:SDD1306_Clear_Screen	40	static
+ssd1306.c:147:9:SSD1306_Init	8	static
+ssd1306.c:186:6:SSD1306_On	8	static
+ssd1306.c:193:6:SSD1306_Off	8	static

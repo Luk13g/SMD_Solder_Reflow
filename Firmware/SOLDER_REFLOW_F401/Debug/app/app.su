@@ -1,0 +1,12 @@
+app.c:64:6:app_started_go	16	static
+app.c:78:6:app_init	8	static
+app.c:88:6:HAL_TIM_PeriodElapsedCallback	64	static
+app.c:113:6:app_PID	24	static
+app.c:132:6:gera_degral	8	static
+app.c:158:17:sm_app_heat_up1	24	static
+app.c:179:17:sm_app_soak	24	static
+app.c:211:17:sm_app_heat_up2	24	static
+app.c:233:17:sm_app_reflow	24	static
+app.c:266:6:sm_app_cool	8	static
+app.c:276:6:routine_reflow_solder_sm	16	static
+app.c:306:6:app_loop	8	static

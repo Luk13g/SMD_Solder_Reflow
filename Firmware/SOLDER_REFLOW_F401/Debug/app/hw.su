@@ -1,0 +1,15 @@
+hw.c:28:6:HAL_GPIO_EXTI_Callback	16	static
+hw.c:41:6:hw_set_state_led_rgb	24	static
+hw.c:51:6:hw_set_state_led_red	24	static
+hw.c:57:6:hw_set_state_led_green	24	static
+hw.c:63:6:hw_set_state_led_blue	24	static
+hw.c:69:6:hw_set_state_user_led	24	static
+hw.c:75:6:hw_toggle_led_red	8	static
+hw.c:80:6:hw_toggle_led_green	8	static
+hw.c:85:6:hw_toggle_led_blue	8	static
+hw.c:90:6:hw_toggle_user_led	8	static
+hw.c:98:6:hw_pwm_SSR1_start	8	static
+hw.c:104:6:hw_pwm_SSR1_set	16	static
+hw.c:113:13:hw_uart_tx_byte	24	static
+hw.c:126:6:hw_uart_tx	24	static
+hw.c:135:10:hw_time_ms_get	8	static
