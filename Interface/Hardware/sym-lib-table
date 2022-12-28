@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name library_controladora_soldagem)(type Legacy)(uri ${KIPRJMOD}/library_controladora_soldagem.lib)(options "")(descr ""))
+)
